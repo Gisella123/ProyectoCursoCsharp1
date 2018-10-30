@@ -1,0 +1,2 @@
+C:\Users\Jonx\source\repos\Hundred.SolicitudPersonal\Hundred.SolicitudPersonal.Repositorios\obj\Debug\Hundred.SolicitudPersonal.Repositorios.csprojResolveAssemblyReference.cache
+C:\Users\Jonx\source\repos\Hundred.SolicitudPersonal\Hundred.SolicitudPersonal.Repositorios\obj\Debug\Hundred.SolicitudPersonal.Repositorios.csproj.CoreCompileInputs.cache
